@@ -1,0 +1,52 @@
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+h1 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 2em;
+}
+p.important {
+    font-size: 1.5em;
+    font-weight: 900;
+}
+.typewriter {
+    font-family: "Courier New", Courier, monospace;
+}
+.emphasized {
+    font-style: italic;
+}
+.standout {
+    color: #cc0000;
+}
+p.spacing {
+    letter-spacing: .1em;
+    word-spacing: 2em;
+    line-height: 2em;
+}
+h3 {
+    text-align: center;
+}
+p.justify {
+    text-align: justify;
+}
+p.indent {
+    text-indent: 1em;
+}
+blockquote {
+    font-size: .75em;
+    color: gray;
+}
+p.margin {
+    margin: 2em;
+}
+.border {
+    border: 2px solid purple;
+    padding: .2em;
+}
+h4, p.center {
+    text-align: center;
+}
+h2#orange {
+    color: orange;
+}
