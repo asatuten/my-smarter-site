@@ -72,3 +72,6 @@ img.float-space-wrap {
 p.clearrap {
     clear: both;
 }
+p.forgetful {
+    font-size: 2em;
+}
