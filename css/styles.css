@@ -75,3 +75,9 @@ p.clearrap {
 p.forgetful {
     font-size: 2em;
 }
+a {
+    color:gray;
+}
+a:hover {
+    color:orange;
+}
